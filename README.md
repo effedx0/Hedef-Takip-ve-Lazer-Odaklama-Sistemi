@@ -1,1 +1,0 @@
-# Hedef-Takip-ve-Lazer-Odaklama-Sistemi
